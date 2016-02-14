@@ -120,6 +120,10 @@ activate :deploy do |deploy|
   deploy.build_before = true
 end
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-73768342-1'
+end
+
 # Pretty URLs - https://middlemanapp.com/advanced/pretty_urls/
 activate :directory_indexes
 

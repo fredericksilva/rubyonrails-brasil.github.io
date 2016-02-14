@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ruby on Rails Brasil: Comunidade</title>
   <subtitle>Posts tagged with Comunidade</subtitle>
-  <id>http://rubyonrails-brasil.github.io</id>
-  <link href="http://rubyonrails-brasil.github.io"/>
-  <link href="http://rubyonrails-brasil.github.io/tag/comunidade/feed.xml" rel="self"/>
+  <id>http://rubyonrailsbrasil.com.br</id>
+  <link href="http://rubyonrailsbrasil.com.br"/>
+  <link href="http://rubyonrailsbrasil.com.br/tag/comunidade/feed.xml" rel="self"/>
   <updated>2016-02-13T22:00:00-02:00</updated>
   <author>
     <name>Comunidade Ruby on Rails Brasil</name>
   </author>
   <entry>
     <title>Início</title>
-    <link rel="alternate" href="http://rubyonrails-brasil.github.io/2016/02/14/inicio/"/>
-    <id>http://rubyonrails-brasil.github.io/2016/02/14/inicio/</id>
+    <link rel="alternate" href="http://rubyonrailsbrasil.com.br/2016/02/14/inicio/"/>
+    <id>http://rubyonrailsbrasil.com.br/2016/02/14/inicio/</id>
     <published>2016-02-13T22:00:00-02:00</published>
     <updated>2016-02-14T01:51:10-02:00</updated>
     <author>

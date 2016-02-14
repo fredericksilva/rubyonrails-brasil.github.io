@@ -1,0 +1,11 @@
+---
+title: Início
+date: 2016-02-14
+tags: Comunidade
+layout: post
+author: brodock
+---
+
+Estamos iniciando de forma experimental um portal colaborativo, mantido pelas
+comunidades [Ruby on Rails Brasil (Facebook)](https://www.facebook.com/groups/rubyonrailsbrasil/)
+e [Ruby on Rails Brasil (Google Plus)](https://plus.google.com/communities/117357061660407338577).

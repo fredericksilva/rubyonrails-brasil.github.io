@@ -4,13 +4,13 @@
 
 config[:casper] = {
   blog: {
-    url: 'http://rubyonrails-brasil.github.io',
+    url: 'http://rubyonrailsbrasil.com.br',
     name: 'Ruby on Rails Brasil',
     description: 'Comunidade Brasileira de Ruby e Rails',
     date_format: '%d %B %Y',
     navigation: true,
     logo: '/images/ruby.svg',
-    logo_opengraph: '/images/ruby.png'
+    logo_opengraph: '/images/ruby-opengraph.png'
   },
   author: {
     name: 'Comunidade Ruby on Rails Brasil',

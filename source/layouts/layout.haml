@@ -17,6 +17,8 @@
     %meta{property: "og:url", content: URI.join(blog_settings.url, current_page.url)}
     - if cover?
       %meta{property: "og:image", content: URI.join(blog_settings.url, image_path(current_page.data.cover))}
+    - else
+      %meta{property: "og:image", content: URI.join(blog_settings.url, blog_settings.logo_opengraph)}
     - if is_blog_article?
       %meta{property: "article:published_time", content: current_article.date.strftime('%Y-%m-%d')}
 

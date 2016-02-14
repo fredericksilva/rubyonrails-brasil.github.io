@@ -9,7 +9,8 @@ config[:casper] = {
     description: 'Comunidade Brasileira de Ruby e Rails',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: '/images/ruby.svg' # Optional
+    logo: '/images/ruby.svg',
+    logo_opengraph: '/images/ruby.png'
   },
   author: {
     name: 'Comunidade Ruby on Rails Brasil',

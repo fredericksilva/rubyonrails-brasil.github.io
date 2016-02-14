@@ -124,6 +124,10 @@ activate :google_analytics do |ga|
   ga.tracking_id = 'UA-73768342-1'
 end
 
+activate :disqus do |d|
+  d.shortname = 'rubyonrailsbrasil'
+end
+
 # Pretty URLs - https://middlemanapp.com/advanced/pretty_urls/
 activate :directory_indexes
 

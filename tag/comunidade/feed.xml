@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ruby on Rails Brasil: Comunidade</title>
+  <subtitle>Posts tagged with Comunidade</subtitle>
+  <id>http://rubyonrails-brasi.github.io</id>
+  <link href="http://rubyonrails-brasi.github.io"/>
+  <link href="http://rubyonrails-brasi.github.io/tag/comunidade/feed.xml" rel="self"/>
+  <updated>2016-02-13T22:00:00-02:00</updated>
+  <author>
+    <name>Comunidade Ruby on Rails Brasil</name>
+  </author>
+  <entry>
+    <title>Início</title>
+    <link rel="alternate" href="http://rubyonrails-brasi.github.io/2016/02/14/inicio/"/>
+    <id>http://rubyonrails-brasi.github.io/2016/02/14/inicio/</id>
+    <published>2016-02-13T22:00:00-02:00</published>
+    <updated>2016-02-14T01:51:10-02:00</updated>
+    <author>
+      <name>Comunidade Ruby on Rails Brasil</name>
+    </author>
+    <summary type="html">Estamos iniciando de forma experimental um portal colaborativo, mantido pelas
+comunidades Ruby on Rails Brasil (Facebook)
+e Ruby on Rails Brasil (Google Plus).
+</summary>
+  </entry>
+</feed>

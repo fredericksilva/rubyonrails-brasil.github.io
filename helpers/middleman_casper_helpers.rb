@@ -7,7 +7,7 @@ module MiddlemanCasperHelpers
     if is_tag_page?
       title << ": #{current_resource.metadata[:locals]['tagname']}"
     elsif is_author_page?
-      title << ": "
+      title << ": #{blog_author.name}"
     elsif current_page.data.title
       title << ": #{current_page.data.title}"
     elsif is_blog_article?

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://rubyonrails-brasi.github.io/2016/02/14/inicio/index.html</loc>
+    <loc>http://rubyonrails-brasil.github.io/2016/02/14/inicio/index.html</loc>
     <lastmod>2016-02-14T01:51:10-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/codigo-de-conduta/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/codigo-de-conduta/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/iniciantes/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/iniciantes/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/publicacao-de-vagas/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/publicacao-de-vagas/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/author/brodock/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/author/brodock/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rubyonrails-brasi.github.io/tag/comunidade/index.html</loc>
-    <lastmod>2016-02-14T04:37:20-02:00</lastmod>
+    <loc>http://rubyonrails-brasil.github.io/tag/comunidade/index.html</loc>
+    <lastmod>2016-02-14T04:39:31-02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

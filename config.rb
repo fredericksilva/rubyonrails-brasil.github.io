@@ -23,7 +23,8 @@ config[:casper] = {
   navigation: {
     'Home' => '/',
     'Iniciantes' => '/iniciantes',
-    'Publicação de Vagas' => '/publicacao-de-vagas'
+    'Publicação de Vagas' => '/publicacao-de-vagas',
+    'Código de Conduta' => '/codigo-de-conduta'
   }
 }
 

@@ -3,13 +3,13 @@ title: Código de Conduta
 layout: page
 ---
 
-# Código de Conduta
-Objetivos do Grupo:
-- Discutir sobre programação (com foco, mas não restrito, à linguagem Ruby)
-- Contribuir com seus conhecimentos e experiências
-- Divulgar projetos pessoais, código-aberto ou oportunidades de emprego conforme regras do grupo
+**Objetivos do Grupo**:
 
-ESTE GRUPO TEM FOCO EM INICIANTES E INTERESSADOS EM APRENDER SOBRE A LINGUÁGEM.
+- Discutir sobre programação *(com foco, mas não restrito, à linguagem Ruby)*
+- Contribuir com seus conhecimentos e experiências
+- Divulgar projetos pessoais, código-aberto ou oportunidades de emprego conforme [regras do grupo](/publicacao-de-vagas.html)
+
+**ESTE GRUPO TEM FOCO EM INICIANTES E INTERESSADOS EM APRENDER SOBRE A LINGUÁGEM.**
 
 O grupo de discussão deve ser um lugar seguro e convidativo para pessoas independentemente de:
 
@@ -56,6 +56,8 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 *A posição de administrador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
 
---
+---
 
-*Esse texto é um documento em constante edição, e pode ser alterado no futuro.* Código de conduta baseado em: https://github.com/AndroidDevBR/Codigo-De-Conduta
+> Esse texto é um documento em constante edição, e pode ser alterado no futuro.
+>
+> Código de conduta baseado no da comunidade [AndroidDevBR](https://github.com/AndroidDevBR/Codigo-De-Conduta)
